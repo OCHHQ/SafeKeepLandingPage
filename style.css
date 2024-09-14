@@ -35,7 +35,7 @@ header .container{
 }
 
 .logo img {
-    width: 90px; /* Adjust this value to your preference */
+    width: 50px; /* Adjust this value to your preference */
     height: auto; /* Maintain aspect ratio */
     display: inline-block;
     vertical-align: middle; /* Aligns it properly with the nav */
